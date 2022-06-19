@@ -1,4 +1,4 @@
-import { IAtor } from './../model/iAtor';
+import { IAtor } from '../model/iFilme';
 import { Component } from '@angular/core';
 import { FilmeDetalhePage } from './../filme-detalhe/filme-detalhe.page';
 import { NavigationExtras, Router } from '@angular/router';
