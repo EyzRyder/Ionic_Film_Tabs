@@ -1,10 +1,10 @@
 export interface IAtor {
     nome: string;
-    nacimento: string;
-    duracao: string;
-    classificacao: number;
+    biografia: string;
+    atuacao: string[];
+    genero: string;
+    idade: number;
     cartaz: string;
-    generos: string[];
     pagina?: string;
     favorito: boolean;
 }

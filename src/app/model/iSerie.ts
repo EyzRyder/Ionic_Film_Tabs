@@ -1,7 +1,8 @@
 export interface ISerie {
     nome: string;
-    lancamento: string;
+    temporada: string;
     duracao: string;
+    sinopse: string;
     classificacao: number;
     cartaz: string;
     generos: string[];
