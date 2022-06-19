@@ -18,7 +18,7 @@ export class FilmeDetalhePage implements OnInit {
     this.route.queryParams.subscribe(params => {
       const getNav = this.router.getCurrentNavigation();
       if (getNav.extras.state) {
-        this.filme = getNav.extras.state.paramfilme;
+        this.filme = getNav.extras.state.paramFilme;
       }
     });
   }
