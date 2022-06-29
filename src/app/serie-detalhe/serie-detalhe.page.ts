@@ -1,4 +1,4 @@
-import { ISerie } from './../model/iSerie';
+import { ISerie } from './../model/iFilme';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 

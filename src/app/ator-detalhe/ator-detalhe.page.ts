@@ -1,4 +1,4 @@
-import { IAtor } from './../model/iAtor';
+import { IAtor } from './../model/iFilme';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 
